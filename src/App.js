@@ -9,6 +9,8 @@ function App() {
         <h1>Weather Search Engine</h1>
         <Search />
       </div>
+
+      <footer><a href="https://github.com/mleekwak/weather-react">Open Source Code</a> by Michelle Lee"</footer>
     </div>
   );
 }
